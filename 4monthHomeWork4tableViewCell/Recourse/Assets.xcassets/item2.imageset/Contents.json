@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "sidekix-media-KiUg-4xmTwo-unsplash 1.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

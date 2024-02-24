@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  4monthHomeWork4tableViewCell
 //
-//  Created by Nurtilek on 2/24/24.
+//  Created by A LINA on 2/23/24.
 //
 
 import UIKit
